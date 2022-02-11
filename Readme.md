@@ -32,9 +32,13 @@ Note : This will show live location.
 .....................................................................................................................
 
 Date picker template from : https://github.com/umdjs/umd/blob/master/templates/returnExportsGlobal.js
+
 Map from : https://github.com/google-map-react/google-map-react
+
 A Javascript library that allows to look up the time zone of a location : https://github.com/darkskyapp/tz-lookup-oss/
+
 API for past location of ISS from : https://api.wheretheiss.at/v1/satellites/25544/positions
+
 API for list of people ISS from : http://api.open-notify.org/astros.json
 
 Reference : https://wheretheiss.at/w/developer
