@@ -1,0 +1,26 @@
+.button {
+    font-family:'Helvetica';
+    background-color: #337ab7;
+    border: round;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: round;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  footer{
+
+    bottom: 0;
+    font-family:'Helvetica';
+    width:100%;
+    margin: 0px;
+    padding: 15px;
+    text-align: center;
+    background-color: black;
+    color: cornsilk;
+}
